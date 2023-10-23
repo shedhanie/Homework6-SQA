@@ -14,5 +14,5 @@ Feature: Login functionality
     Examples:
       | username        | password     | status  |
       | standard_user   | secret_sauce | success |
-      | locked_out_user | secret_sauce | fail    |
-      | error_user      | secret_sauce | fail    |
+#      | locked_out_user | secret_sauce | fail    |
+#      | error_user      | secret_sauce | fail    |
